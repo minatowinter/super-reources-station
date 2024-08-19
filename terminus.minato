@@ -1,0 +1,6 @@
+minato alist
+Android挂载盘映射
+speed: 1mb/s-3mb/s
+address: 
+   tcp: p1.hpnu.cn:12170
+   http:http://minato.p1.hpnu.cn
